@@ -23,7 +23,6 @@ const Faq = () => {
             </div>
 
             {/******------accordion list------******/}
-
             <div className='flex flex-col gap-y-4 px-4'
                  data-aos='fade-up'
                  data-aos-offset='300'
